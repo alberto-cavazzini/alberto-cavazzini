@@ -37,7 +37,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=alberto-cavazzini&theme=github_dark_dimmed&hide_border=true)<br/>
 
 ## 🔝 Top Contributed Repo:
----
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=alberto-cavazzini&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true">
 </div>
