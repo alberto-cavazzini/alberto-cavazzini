@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi 👋, I'm Alberto (He/Him) 🧑🏻‍💻
 
-<!--
-**alberto-cavazzini/alberto-cavazzini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑🏻‍💻 Front-end and Back-end Developer sharing about my journey and learning in tech
 
-Here are some ideas to get you started:
+💻 Core Skills: Javascript, TypeScript, React, Node.js, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Goals: Grow as a Senior Web Developer and contribute to the development of innovative tech solutions.
+
+📍 Based in Bologna, Emilia Romagna, Italy.
+
+🔗 How to reach me?
+
+[Here my LinkedIn Profile](https://www.linkedin.com/in/albertocavazzini)
+
+![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=alberto-cavazzini&count_private=true&show_icons=true&hide_rank=false)
+
+🙋🏻‍♂️ Get in touch!
