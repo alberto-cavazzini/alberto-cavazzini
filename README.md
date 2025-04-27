@@ -34,10 +34,10 @@
 
 ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlkOWVob242dXptcDEyc3MzbHRvMDR0ZThzeHh3ZWZscncyOGo4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhWLu2lsU0rfLiwYlI/giphy.gif" align="left" width="25" height="auto">&nbsp;Stats:
 <span align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alberto-cavazzini&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=false">
+  <img src="https://github-readme-stats.vercel.app/api?username=alberto-cavazzini&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=false" width="40%" height="auto">
 </span>
 <span align="right">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=alberto-cavazzini&theme=github_dark_dimmed&hide_border=true" >
+  <img src="https://nirzak-streak-stats.vercel.app/?user=alberto-cavazzini&theme=github_dark_dimmed&hide_border=true" width="44%" height="auto">
 </span>
 
 ## 🔝 Top Contributed Repo:
