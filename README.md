@@ -10,7 +10,7 @@
 
 🔗 How to reach me?
 
-[Here my LinkedIn Profile](https://www.linkedin.com/in/albertocavazzini)
+[LinkedIn](https://www.linkedin.com/in/albertocavazzini)
 
 ![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=alberto-cavazzini&count_private=true&show_icons=true&hide_rank=false)
 
