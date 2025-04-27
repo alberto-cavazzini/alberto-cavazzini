@@ -33,9 +33,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=alberto-cavazzini&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=alberto-cavazzini&theme=github_dark_dimmed&hide_border=true)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alberto-cavazzini&theme=github_dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=alberto-cavazzini&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
 
