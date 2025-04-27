@@ -1,4 +1,4 @@
-# Hi 👋, I'm Alberto!
+# Hi 👋🏻, I'm Alberto!
 
 🧑🏻‍💻 Front-end and Back-end Developer sharing about my journey and learning in tech
 
@@ -8,10 +8,12 @@
 
 🙋🏻‍♂️ Get in touch!
 
-## 🌐 Socials:
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmQ1NTI1bmtnYzNodjB5ZXUwdjQzYXNtMXpzbzM2eGl3aWM5ZG10eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jEpmmpxHv29CKXvUhk/giphy.gif" align="left" width="30" height="auto">&nbsp;Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/albertocavazzini) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alberto.cavazzini97@gmail.com) 
 
-# 💻 Tech Stack:
+  
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDl0ZTMxdjdqc3BrZGxrZjA3N2drZXRkemc1aHJ3bGp1NzRnaXhscCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif"     align="left" width="30" height="auto">&nbsp;Tech Stack:
+
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -29,14 +31,13 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alberto-cavazzini&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=false)<br/>
+
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlkOWVob242dXptcDEyc3MzbHRvMDR0ZThzeHh3ZWZscncyOGo4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhWLu2lsU0rfLiwYlI/giphy.gif" align="left" width="30" height="auto">&nbsp;Stats:
+![](https://github-readme-stats.vercel.app/api?username=alberto-cavazzini&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=alberto-cavazzini&theme=github_dark_dimmed&hide_border=true)<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alberto-cavazzini&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
-
+## 🔝 Top Contributed Repo:
 ---
-[![](https://visitcount.itsvg.in/api?id=alberto-cavazzini&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=alberto-cavazzini&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true">
+</div>
