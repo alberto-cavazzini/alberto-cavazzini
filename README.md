@@ -1,4 +1,4 @@
-# Hi 👋🏻, I'm Alberto!
+# <p>Hi 👋🏻, I'm Alberto!</p>
 
 🧑🏻‍💻 Front-end and Back-end Developer sharing about my journey and learning in tech
 
@@ -32,7 +32,7 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlkOWVob242dXptcDEyc3MzbHRvMDR0ZThzeHh3ZWZscncyOGo4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhWLu2lsU0rfLiwYlI/giphy.gif" align="left" width="30" height="auto">&nbsp;Stats:
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlkOWVob242dXptcDEyc3MzbHRvMDR0ZThzeHh3ZWZscncyOGo4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhWLu2lsU0rfLiwYlI/giphy.gif" align="left" width="25" height="auto">&nbsp;Stats:
 ![](https://github-readme-stats.vercel.app/api?username=alberto-cavazzini&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=alberto-cavazzini&theme=github_dark_dimmed&hide_border=true)<br/>
 
