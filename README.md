@@ -33,10 +33,14 @@
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlkOWVob242dXptcDEyc3MzbHRvMDR0ZThzeHh3ZWZscncyOGo4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhWLu2lsU0rfLiwYlI/giphy.gif" align="left" width="25" height="auto">&nbsp;Stats:
-![](https://github-readme-stats.vercel.app/api?username=alberto-cavazzini&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=alberto-cavazzini&theme=github_dark_dimmed&hide_border=true)<br/>
+<span align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=alberto-cavazzini&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=false">
+</span>
+<span align="right">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=alberto-cavazzini&theme=github_dark_dimmed&hide_border=true" >
+</span>
 
 ## 🔝 Top Contributed Repo:
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=alberto-cavazzini&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true">
-</div>
+  <div align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=alberto-cavazzini&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true" width="50%">
+  </div>
